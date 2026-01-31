@@ -26,7 +26,7 @@
 
 ## 📌 Featured Projects
 
-### 🔐 Security Log Analyzer (Coming Soon!)
+### 🔐 Security Log Analyzer
 Real-time dashboard for detecting brute-force attacks and authentication anomalies  
 `Python` `Pandas` `Streamlit` `Cybersecurity`
 
