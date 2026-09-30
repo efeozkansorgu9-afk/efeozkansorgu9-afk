@@ -1,48 +1,44 @@
-# Hi there, I'm Efe 👋
+# Hi, I'm Efe 👋
 
-🎓 **Mathematical Engineering Student** @ Istanbul Technical University  
-🔐 Passionate about **Cybersecurity** and **Data Analytics**  
-💻 Building projects with **Python**, **MATLAB**, and data science tools
-
----
-
-## 🚀 What I'm Currently Working On
-
-- 🛡️ Security log analysis and threat detection systems
-- 📊 Data-driven problem solving with Python
-- 🔵 Learning blue team fundamentals and SOC workflows
-- 📚 Completing Google IT Support Professional Certificate
+🎓 Mathematical Engineering student at **Istanbul Technical University**  
+📊 I build data products for finance: from raw prices to a verdict you can check  
+🐍 Python · TypeScript · SQL
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Featured: miru
 
-**Languages:** Python • MATLAB • C  
-**Data & Analysis:** Pandas • NumPy • Matplotlib  
-**Tools:** Git • Linux • LaTeX • Streamlit  
-**Interests:** Cybersecurity • Machine Learning • Statistical Modeling
+**[miru.com.tr](https://miru.com.tr)** is an analysis platform for Turkish mutual funds (TEFAS). It doesn't tell you what to buy; it shows you what you already hold: which funds in your basket are really one holding, and how ~1,370 funds group by what they actually invest in.
 
----
+- Pairwise correlations for every fund, with 95% intervals (Fisher z + block bootstrap); verdicts read off the end of the interval that argues *against* the claim
+- No ranking, no "best fund": funds fall into buckets, and unmeasurable pairs get "no verdict" instead of a guess
+- Real (inflation-adjusted) returns from TCMB data, returns-based style analysis for market groups
+- Weekly precompute job, FastAPI + Postgres on Railway, statically generated Next.js frontend on Vercel
 
-## 📌 Featured Projects
-
-### 🔐 Security Log Analyzer
-Real-time dashboard for detecting brute-force attacks and authentication anomalies  
-`Python` `Pandas` `Streamlit` `Cybersecurity`
-
-### 📈 [Student GPA Analyzer](https://github.com/efeozkansorgu9-afk/student-gpa-analyzer)
-Interactive tool for GPA calculation and academic performance planning  
-`Python` `Pandas` `Data Validation`
+`FastAPI` `Postgres` `NumPy` `pandas` `Next.js` `TypeScript`
 
 ---
 
-## 📫 Let's Connect
+## 🧪 Other projects
+
+- 🔐 [Security Log Analyzer](https://github.com/efeozkansorgu9-afk/security-log-analyzer): dashboard for spotting brute-force attempts and authentication anomalies (`Python` `Pandas` `Streamlit`)
+- 📈 [Student GPA Analyzer](https://github.com/efeozkansorgu9-afk/student-gpa-analyzer): GPA calculation and academic planning (`Python` `Pandas`)
+- 🎧 [Least-Squares Hearing Project](https://github.com/efeozkansorgu9-afk/Least-Squares-Hearing-Project): numerical methods coursework (`MATLAB`)
+
+---
+
+## 🛠️ Tech
+
+**Languages:** Python • TypeScript • SQL • MATLAB • C  
+**Data & Analysis:** pandas • NumPy • statistics • time series  
+**Web:** FastAPI • Next.js • Postgres • Tailwind  
+**Tools:** Git • Linux • LaTeX
+
+---
+
+## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/efe-özkan-sorgu-6230ba387/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:efeozkansorgu9@gmail.com)
 
----
-
-💡 *Open to Summer 2026 internship opportunities in Cybersecurity and Data Analytics*
-
-![Profile Views](https://komarev.com/ghpvc/?username=efeozkansorgu9-afk&color=blue)
+💡 *Open to internships in data analytics and quantitative finance.*
